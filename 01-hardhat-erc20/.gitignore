@@ -1,0 +1,15 @@
+# Hardhat artifacts
+artifacts/
+cache/
+
+# Node modules
+node_modules/
+
+# Typechain outputs
+typechain/
+
+# Coverage reports
+coverage/
+
+# Env files
+.env
