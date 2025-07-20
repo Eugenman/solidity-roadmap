@@ -1,0 +1,24 @@
+{
+    "name": "03-tests",
+    "version": "1.0.0",
+    "description": "Section 03: Testing ERC20 with Hardhat, Chai, TypeScript",
+    "scripts": {
+      "compile": "hardhat compile",
+      "test": "hardhat test",
+      "typechain": "hardhat typechain"
+    },
+    "devDependencies": {
+      "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+      "@typechain/ethers-v6": "^0.5.0",
+      "@typechain/hardhat": "^9.0.0",
+      "@types/chai": "^4.3.4",
+      "@types/mocha": "^10.0.1",
+      "chai": "^4.3.7",
+      "ethers": "^6.6.0",
+      "hardhat": "^2.22.0",
+      "ts-node": "^10.9.1",
+      "typechain": "^8.3.0",
+      "typescript": "^5.3.3"
+    }
+  }
+  
